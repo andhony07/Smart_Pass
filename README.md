@@ -101,7 +101,12 @@ npm run build
 ## 🙏 Acknowledgments
 
 - Built with [Rocket.new](https://rocket.new)
-- Powered by React and Vite
-- Styled with Tailwind CSS
+# Smart Pass Project
 
-Built with ❤️ on Rocket.new
+## Project Files
+- [Main Script](./main.py)
+- [Database Module](./db/database.py)
+- [Helper Functions](./utils/helper.py)
+
+## Repo Link
+[Smart_Pass Repository](https://github.com/andhony07/Smart_Pass)
